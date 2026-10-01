@@ -1,1 +1,3 @@
-Then you can install all these apps!
+Download Fun.ps1
+
+````cmd
