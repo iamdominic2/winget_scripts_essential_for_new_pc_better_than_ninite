@@ -6,7 +6,7 @@ $life = @(
     "Anki.Anki",
     "Microsoft.PowerToys",
     "Microsoft.WindowsTerminal",
-    "Microsoft.Office",
+    "Microsoft.Office365.Client",
     "Git.Git",
     "Google.Chrome",
     "Grammarly.Grammarly",
