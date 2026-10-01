@@ -7,7 +7,7 @@ cd Downloads
 .\Fun.ps1
 ````
 Contents of Fun.ps1:
-````
+````powershell
 # Run in PowerShell as Administrator
 winget source reset --force
 winget source add -n winget -t Microsoft.Rest -a https://cdn.winget.microsoft.pkgs.visualstudio.com/cache
