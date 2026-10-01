@@ -16,7 +16,7 @@ $life = @(
     "Python.Python.3.12",
     "VideoLAN.VLC",
     "xanderfrangos.twinkletray",
-    "Zoom.Zoom"
+    "Zoom.Zoom",
     "Microsoft.VisualStudioCode"
 )
 
