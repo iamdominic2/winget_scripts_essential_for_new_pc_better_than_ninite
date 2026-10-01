@@ -24,6 +24,6 @@ $life = @(
 
 foreach ($soul in $life) {
     Write-Host "Installing $soul..."
-    winget install --id $app -e --accept-package-agreements --accept-source-agreements
+    winget install --id $app -s winget -e --accept-package-agreements --accept-source-agreements
 }
 
