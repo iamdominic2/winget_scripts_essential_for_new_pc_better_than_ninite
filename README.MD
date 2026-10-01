@@ -1,6 +1,7 @@
 Download Fun.ps1
 
 ````cmd
-cd %USERPROFILE%
+cd ~
+cd /d %userprofile%
 cd Downloads
 .\Fun.ps1
