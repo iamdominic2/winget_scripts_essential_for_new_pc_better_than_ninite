@@ -19,7 +19,7 @@ $packages = @(
     "VideoLAN.VLC",
     "xanderfrangos.twinkletray",
     "Zoom.Zoom",
-    "Microsoft.VisualStudioCode"
+    "Microsoft.VisualStudioCode",
     "AntibodySoftware.WizTree"
 )
 
