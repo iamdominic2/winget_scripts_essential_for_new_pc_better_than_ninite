@@ -1,10 +1,10 @@
 Download Fun.ps1
 
-````cmd
+````powershell
 cd ~
 cd /d %userprofile%
 cd Downloads
-.\Fun.ps1
+powershell.exe -ExecutionPolicy Bypass -File .\Fun.ps1
 ````
 Contents of Fun.ps1:
 ````powershell
