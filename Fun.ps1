@@ -21,7 +21,7 @@ $packages = @(
     "Zoom.Zoom",
     "Microsoft.VisualStudioCode",
     "AntibodySoftware.WizTree",
-    "Voidtools.Everything",
+    "Voidtools.Everything"
 )
 
 foreach ($package in $packages) {
