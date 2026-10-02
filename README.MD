@@ -30,6 +30,7 @@ $packages = @(
     "xanderfrangos.twinkletray",
     "Zoom.Zoom",
     "Microsoft.VisualStudioCode"
+    "AntibodySoftware.WizTree"
 )
 
 foreach ($package in $packages) {
